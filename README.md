@@ -24,21 +24,6 @@ Github Links:
 | [ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="15"> ](https://www.linkedin.com/in/jesus-caballero-medrano/)| [ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="15"> ](https://www.linkedin.com/) | [ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="15"> ](https://www.linkedin.com/in/taylorcurranagtc/) |
 
 
-## **Description**
-
-Project description goes here
-
-## **DS Roles**
-
-1. ### Data Engineers
-
-    + describe the work of the data engineers here
-
-2. ### Machine Learning Engineers
-
-    + describe the work of the ML engineers here
-
-
 
 ## Repo Guide
 
